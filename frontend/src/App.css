@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Creepster&family=Poppins:ital,wght@0,400;1,600&family=Roboto:ital,wght@0,100;0,300;1,300&family=Work+Sans:wght@300&display=swap');
+
+.App{
+  min-height: 100vh;
+  display: flex;
+  /* background-image: url(); */
+}
+
+
+::-webkit-scrollbar {
+  width: 0px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(136, 136, 136, 0.281);
+}
+
+
+  /* Hover pr handle krenge toh ye color aayega */
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
