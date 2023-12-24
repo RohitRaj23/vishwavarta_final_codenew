@@ -1,5 +1,5 @@
 
-import User from "../Models/UserModel.js";
+import User from "../models/UserModel.js";
 import Chat from "../models/chatModels.js";
 
 

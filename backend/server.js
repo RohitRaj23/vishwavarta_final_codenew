@@ -8,7 +8,7 @@ import chatRoutes from './Routes/chatRoutes.js'
 import messageRoutes from './Routes/messageRoutes.js'
 import { Server } from 'socket.io';
 
-import {notFound , errorHandler} from './Middleware/errorMiddleware.js'
+import {notFound , errorHandler} from './middleware/errorMiddleware.js'
 // const path = require('path');
 import path from 'path'
 
